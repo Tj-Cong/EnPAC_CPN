@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPN_PNML_PARSE"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPN_PNML_PARSE">
+				<Option output="/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/CPN_PNML_PARSE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/lewis/下载/CPN_PNML_PARSE/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPN_PNML_PARSE"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPN_PNML_PARSE/fast">
+				<Option output="/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/CPN_PNML_PARSE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/lewis/下载/CPN_PNML_PARSE/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPN_PNML_PARSE/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lewis/下载/CPN_PNML_PARSE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/Data_Structures.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/Data_Structures.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/Lexer.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/Lexer.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/SBA.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/SBA.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/Syntax_Tree.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/Syntax_Tree.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/TBA.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/TBA.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/TGBA.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/TGBA.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/tinystr.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/tinystr.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/tinyxml.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/tinyxml.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/tinyxmlerror.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/tinyxmlparser.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/xml2ltl.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/BA/xml2ltl.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/CPN.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/CPN.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/CPN_Product.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/CPN_Product.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/CPN_RG.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/CPN_RG.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/base.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/condition_tree.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/condition_tree.h">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/main.cpp">
+			<Option target="CPN_PNML_PARSE"/>
+		</Unit>
+		<Unit filename="/home/lewis/下载/CPN_PNML_PARSE/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

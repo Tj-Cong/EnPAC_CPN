@@ -1,0 +1,22 @@
+PLACE INFO {
+	stp5 1'[dot] 
+	stp4 1'[dot] 
+	stp3 1'[dot] 
+	stp2 1'[dot] 
+	stp1 1'[dot] 
+	SpeedPossibleVal 1'[Speed1] 1'[Speed2] 1'[Speed3] 1'[Speed4] 1'[Speed5] 1'[Speed6] 1'[Speed7] 1'[Speed8] 1'[Speed9] 1'[Speed10] 1'[Speed11] 1'[Speed12] 1'[Speed13] 1'[Speed14] 1'[Speed15] 1'[Speed16] 1'[Speed17] 1'[Speed18] 1'[Speed19] 1'[Speed20] 1'[Speed21] 1'[Speed22] 1'[Speed23] 1'[Speed24] 1'[Speed25] 1'[Speed26] 1'[Speed27] 1'[Speed28] 1'[Speed29] 1'[Speed30] 1'[Speed31] 1'[Speed32] 1'[Speed33] 1'[Speed34] 1'[Speed35] 1'[Speed36] 1'[Speed37] 1'[Speed38] 1'[Speed39] 1'[Speed40] 1'[Speed41] 1'[Speed42] 1'[Speed43] 1'[Speed44] 1'[Speed45] 1'[Speed46] 1'[Speed47] 1'[Speed48] 1'[Speed49] 1'[Speed50] 
+	AltitudePossibleVal 1'[Altitude1] 1'[Altitude2] 1'[Altitude3] 1'[Altitude4] 1'[Altitude5] 1'[Altitude6] 1'[Altitude7] 1'[Altitude8] 1'[Altitude9] 1'[Altitude10] 1'[Altitude11] 1'[Altitude12] 1'[Altitude13] 1'[Altitude14] 1'[Altitude15] 1'[Altitude16] 1'[Altitude17] 1'[Altitude18] 1'[Altitude19] 1'[Altitude20] 1'[Altitude21] 1'[Altitude22] 1'[Altitude23] 1'[Altitude24] 1'[Altitude25] 1'[Altitude26] 1'[Altitude27] 1'[Altitude28] 1'[Altitude29] 1'[Altitude30] 1'[Altitude31] 1'[Altitude32] 1'[Altitude33] 1'[Altitude34] 1'[Altitude35] 1'[Altitude36] 1'[Altitude37] 1'[Altitude38] 1'[Altitude39] 1'[Altitude40] 1'[Altitude41] 1'[Altitude42] 1'[Altitude43] 1'[Altitude44] 1'[Altitude45] 1'[Altitude46] 1'[Altitude47] 1'[Altitude48] 1'[Altitude49] 1'[Altitude50] 1'[Altitude51] 1'[Altitude52] 1'[Altitude53] 1'[Altitude54] 1'[Altitude55] 1'[Altitude56] 1'[Altitude57] 1'[Altitude58] 1'[Altitude59] 1'[Altitude60] 1'[Altitude61] 1'[Altitude62] 1'[Altitude63] 1'[Altitude64] 1'[Altitude65] 1'[Altitude66] 1'[Altitude67] 1'[Altitude68] 1'[Altitude69] 1'[Altitude70] 1'[Altitude71] 1'[Altitude72] 1'[Altitude73] 1'[Altitude74] 1'[Altitude75] 1'[Altitude76] 1'[Altitude77] 1'[Altitude78] 1'[Altitude79] 1'[Altitude80] 1'[Altitude81] 1'[Altitude82] 1'[Altitude83] 1'[Altitude84] 1'[Altitude85] 1'[Altitude86] 1'[Altitude87] 1'[Altitude88] 1'[Altitude89] 1'[Altitude90] 1'[Altitude91] 1'[Altitude92] 1'[Altitude93] 1'[Altitude94] 1'[Altitude95] 1'[Altitude96] 1'[Altitude97] 1'[Altitude98] 1'[Altitude99] 1'[Altitude100] 
+	WeightPossibleVal 1'[Weight0] 1'[Weight1] 
+	P5 
+	P4 
+	P3 
+	P2 
+	P6 
+	P1 1'[dot] 
+	Weight_Right_Wheel 
+	Weight_Left_Wheel 
+	TheAltitude 
+	Speed_Left_Wheel 
+	Speed_Right_Wheel 
+	Plane_On_Ground_Signal_no 
+}

@@ -1,0 +1,20 @@
+USERSORT:
+name: site
+constants: (site1,site2,site3,site4,site5,site6,site7,site8,site9,site10,site11,site12,site13,site14,site15,site16,site17,site18,site19,site20,site21,site22,site23,site24,site25,site26,site27,site28,site29,site30,site31,site32,site33,site34,site35,site36,site37,site38,site39,site40,)
+------------------------
+name: file
+constants: (file1,file2,file3,file4,file5,file6,file7,file8,file9,file10,file11,file12,file13,file14,file15,file16,file17,file18,file19,file20,file21,file22,file23,file24,file25,file26,file27,file28,file29,file30,file31,file32,file33,file34,file35,file36,file37,file38,file39,file40,)
+------------------------
+
+PRODUCTSORT:
+name: sf
+member: (site,file,)
+------------------------
+
+VARIABLES:
+name: vars
+related sort: site
+------------------------
+name: varf
+related sort: file
+------------------------
